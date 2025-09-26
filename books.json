@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Harry Potter and the Philosopher's Stone", "author": "J.K. Rowling", "genre": "Fantasy", "shelfNumber": "A12", "location": "Fantasy" },
+  { "id": 2, "title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "genre": "Adventure", "shelfNumber": "B05", "location": "Sci-Fi & Fantasy" },
+  { "id": 3, "title": "A Game of Thrones", "author": "George R.R. Martin", "genre": "Science Fiction", "shelfNumber": "B05", "location": "Sci-Fi & Fantasy" },
+  { "id": 4, "title": "To Kill a Mockingbird", "author": "Harper Lee", "genre": "Classic", "shelfNumber": "D02", "location": "Classics" },
+  { "id": 5, "title": "Pride and Prejudice", "author": "Jane Austen", "genre": "Romance", "shelfNumber": "E03", "location": "Romance" },
+  { "id": 6, "title": "The Hunger Games", "author": "Suzanne Collins", "genre": "Dystopian", "shelfNumber": "F09", "location": "Dystopian" },
+  { "id": 7, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "genre": "Fiction", "shelfNumber": "1A", "location": "Fiction" },
+  { "id": 8, "title": "1984", "author": "George Orwell", "genre": "Dystopian", "shelfNumber": "2A", "location": "Dystopian" },
+  { "id": 9, "title": "The Catcher in the Rye", "author": "J.D. Salinger", "genre": "Fiction", "shelfNumber": "1C", "location": "Fiction" },
+  { "id": 10, "title": "The Hobbit", "author": "J.R.R. Tolkien", "genre": "Fantasy", "shelfNumber": "3A", "location": "Fantasy" },
+  { "id": 11, "title": "Moby-Dick", "author": "Herman Melville", "genre": "Adventure", "shelfNumber": "4A", "location": "Adventure" },
+  { "id": 12, "title": "The Alchemist", "author": "Paulo Coelho", "genre": "Fiction", "shelfNumber": "2C", "location": "Fiction" },
+  { "id": 13, "title": "The Da Vinci Code", "author": "Dan Brown", "genre": "Thriller", "shelfNumber": "5A", "location": "Thriller" },
+  { "id": 14, "title": "Brave New World", "author": "Aldous Huxley", "genre": "Dystopian", "shelfNumber": "3B", "location": "Dystopian" },
+  { "id": 15, "title": "The Chronicles of Narnia", "author": "C.S. Lewis", "genre": "Fantasy", "shelfNumber": "A07", "location": "Fantasy" },
+  { "id": 16, "title": "The Girl with the Dragon Tattoo", "author": "Stieg Larsson", "genre": "Mystery", "shelfNumber": "M11", "location": "Mystery" },
+  { "id": 17, "title": "The Kite Runner", "author": "Khaled Hosseini", "genre": "Drama", "shelfNumber": "D06", "location": "Drama" },
+  { "id": 18, "title": "Sapiens", "author": "Yuval Noah Harari", "genre": "Non-Fiction", "shelfNumber": "NF01", "location": "Non-Fiction" },
+  { "id": 19, "title": "The Martian", "author": "Andy Weir", "genre": "Science Fiction", "shelfNumber": "SF10", "location": "Science Fiction" },
+  { "id": 20, "title": "Gone Girl", "author": "Gillian Flynn", "genre": "Thriller", "shelfNumber": "T02", "location": "Thriller" }
+]
